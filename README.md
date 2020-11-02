@@ -1,5 +1,5 @@
 # oreillyplaylists2json
-[Playing with Go] - Fun weekend project to extract your Safari (O'Reilly Online Learning) playlists HTML pages into a single JSON file
+[Playing with Go] - Small weekend project to extract your Safari (O'Reilly Online Learning) playlists HTML pages into a single JSON file
 
 ## Limitations
 *Works offline only.\
