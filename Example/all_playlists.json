@@ -1,0 +1,222 @@
+[
+ {
+  "name": "\n          APIs: First Steps\n        ",
+  "author": "By Michael Amundsen",
+  "description": "\n            Overplanning an API is wasted investment; underplanning can lead to\n            disaster. Start your APIs on the right foot with these picks from\n            Mike Amundsen.\n          ",
+  "lastModified": "Last Updated: Jan 28, 2020",
+  "numberOfItems": "8 Items",
+  "items": [
+   {
+    "itemName": "1. The Challenge of API Management",
+    "itemAuthor": "By Mehdi Medjaoui Erik Wilde Ronnie Mitra Mike Amundsen",
+    "itemId": "9781492043546",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/continuous-api-management/9781492043546/ch01.html"
+   },
+   {
+    "itemName": "The Evolution of API Platforms",
+    "itemAuthor": "By Luis Weir Zdenek Z Nemec",
+    "itemId": "809",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/enterprise-api-management/9781787284432/809d6128-0d97-47f4-b52b-846f63b4ee15.xhtml"
+   },
+   {
+    "itemName": "4. The Ten Pillars of an API Product",
+    "itemAuthor": "By Mehdi Medjaoui Erik Wilde Ronnie Mitra Mike Amundsen",
+    "itemId": "9781492043546",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/continuous-api-management/9781492043546/ch04.html"
+   },
+   {
+    "itemName": "Chapter 1: What is API design?",
+    "itemAuthor": "By Arnaud Lauret",
+    "itemId": "9781617295102",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/the-design-of/9781617295102/OEBPS/Text/c01.xhtml"
+   },
+   {
+    "itemName": "API for Beginners: JavaScript and Getting Started with APIs and AJAX",
+    "itemAuthor": "By Laurence Svekis",
+    "itemId": "9781838556570",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/9781838556570/continue"
+   },
+   {
+    "itemName": "Building REST APIs with Python",
+    "itemAuthor": "By Wayne Merry",
+    "itemId": "9781788293143",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/9781788293143/continue"
+   },
+   {
+    "itemName": "Building RESTful APIs with Go",
+    "itemAuthor": "By Bartlomiej Walczak",
+    "itemId": "9781789614992",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/9781789614992/continue"
+   },
+   {
+    "itemName": "6. The API Product Lifecycle",
+    "itemAuthor": "By Mehdi Medjaoui Erik Wilde Ronnie Mitra Mike Amundsen",
+    "itemId": "9781492043546",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/continuous-api-management/9781492043546/ch06.html"
+   }
+  ]
+ },
+ {
+  "name": "\n          Becoming a Better Tech Leader\n        ",
+  "author": "By Camille Fournier",
+  "description": "\n            Camille Fournier shares her picks to help you navigate the path to\n            becoming a better manager and tech leader.\n          ",
+  "lastModified": "Last Updated: Aug 21, 2019",
+  "numberOfItems": "8 Items",
+  "items": [
+   {
+    "itemName": "Chapter 3: Tech Lead",
+    "itemAuthor": "By Camille Fournier",
+    "itemId": "9781492036432",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/the-managers-path/9781492036432/9781492036432-video318818"
+   },
+   {
+    "itemName": "Chapter 4: Managing People",
+    "itemAuthor": "By Camille Fournier",
+    "itemId": "9781492036432",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/the-managers-path/9781492036432/9781492036432-video318819"
+   },
+   {
+    "itemName": "6. Saying It with Purpose",
+    "itemAuthor": "By Robert Hoekman Jr.",
+    "itemId": "9781491995082",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/the-new-manager/9781491995082/ch06.html"
+   },
+   {
+    "itemName": "Managing by missing - Ian Nowland (Two Sigma)",
+    "itemAuthor": "By O'Reilly Media, Inc.",
+    "itemId": "9781492025870",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/velocity-conference-/9781492025870/9781492025870-video323254"
+   },
+   {
+    "itemName": "Managing Conflict for Success and Development",
+    "itemAuthor": "By Barbara Popejoy Brenda McManigle",
+    "itemId": "11",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/managing-conflict-with/1882197739/xhtml/11_Chapter04.xhtml"
+   }
+  ]
+ },
+ {
+  "name": "Best Practices_cpppy",
+  "author": "By Ngodjigui Diarrassouba",
+  "description": "",
+  "lastModified": "Last Updated: May 26, 2020",
+  "numberOfItems": "5 Items",
+  "items": [
+   {
+    "itemName": "Clean Code",
+    "itemAuthor": "By Robert C. Martin",
+    "itemId": "9780134661742",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/9780134661742/continue"
+   },
+   {
+    "itemName": "Clean Architecture: A Craftsman's Guide to Software Structure and Design, First Edition",
+    "itemAuthor": "By Robert C. Martin",
+    "itemId": "9780134494272",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/api/v1/dashboard/continue/9780134494272"
+   },
+   {
+    "itemName": "Beautiful Code",
+    "itemAuthor": "By Andy Oram Greg Wilson",
+    "itemId": "9780596510046",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/api/v1/dashboard/continue/9780596510046"
+   },
+   {
+    "itemName": "97 Things Every Software Architect Should Know",
+    "itemAuthor": "By Richard Monson-Haefel",
+    "itemId": "9780596800611",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/api/v1/dashboard/continue/9780596800611"
+   },
+   {
+    "itemName": "97 Things Every Programmer Should Know",
+    "itemAuthor": "By Kevlin Henney",
+    "itemId": "9780596809515",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/api/v1/dashboard/continue/9780596809515"
+   }
+  ]
+ },
+ {
+  "name": "\n          Computer Vision\n        ",
+  "author": "By Ngodjigui Diarrassouba",
+  "description": "",
+  "lastModified": "Last Updated: Jun 12, 2020",
+  "numberOfItems": "2 Items",
+  "items": [
+   {
+    "itemName": "Advanced Computer Vision with TensorFlow",
+    "itemAuthor": "By Marvin Bertin",
+    "itemId": "9781788479448",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/9781788479448/continue"
+   },
+   {
+    "itemName": "Advanced Applied Deep Learning : Convolutional Neural Networks and Object Detection",
+    "itemAuthor": "By Umberto Michelucci",
+    "itemId": "9781484249765",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/api/v1/dashboard/continue/9781484249765"
+   }
+  ]
+ },
+ {
+  "name": "CSV",
+  "author": "By Ngodjigui Diarrassouba",
+  "description": "",
+  "lastModified": "Last Updated: Aug 16, 2020",
+  "numberOfItems": "5 Items",
+  "items": [
+   {
+    "itemName": "slide:ology",
+    "itemAuthor": "By Nancy Duarte",
+    "itemId": "9780596522346",
+    "itemType": "book",
+    "itemHref": "https://learning.oreilly.com/library/view/slideology/9780596522346/"
+   },
+   {
+    "itemName": "Microsoft AZ-301 Certification: Azure Architect Design",
+    "itemAuthor": "By Nick Colyer",
+    "itemId": "1018947653",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/1018947653/continue"
+   },
+   {
+    "itemName": "NEW! Microsoft AZ-303 Certification Course: Azure Architect Technologies",
+    "itemAuthor": "By Skylines Academy Nick Colyer",
+    "itemId": "10009",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/10009AZ303/continue"
+   },
+   {
+    "itemName": "Microsoft AZ-103 Azure Administrator Exam Certification",
+    "itemAuthor": "By Nick Colyer",
+    "itemId": "10009",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/10009AZ100454545/continue"
+   },
+   {
+    "itemName": "Microsoft AZ-300 Certification Course: Azure Architect Technologies",
+    "itemAuthor": "By Nick Colyer",
+    "itemId": "1018947654",
+    "itemType": "video",
+    "itemHref": "https://learning.oreilly.com/videos/-/1018947654/continue"
+   }
+  ]
+ }
+]
